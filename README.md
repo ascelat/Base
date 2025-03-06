@@ -42,6 +42,6 @@ _Данное хранилище в виде репо создал для себ
 
 **Мои Контакты**
 
-[_Почта/Email_](khashi.yashiro@yandex.ru)
+_Почта/Email_: _khashi.yashiro@yandex.ru_
 
-[_Telegram_](@Ascelat)
+_Telegram_: _@Ascelat_
